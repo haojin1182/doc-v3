@@ -121,7 +121,7 @@ return [
 ];
 ```
 
-```php{1} [简体中文翻译文化]
+```php{1} [简体中文翻译文件]
 // storage/zh_CN/user-center.php
 return [
     'success' => '登录成功',
